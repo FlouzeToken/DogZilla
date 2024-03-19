@@ -1,0 +1,9 @@
+{
+	"name": "DogZilla",
+   	"symbol": "DOGZ",
+	"uri": "https://raw.githubusercontent.com/FlouzeToken/DogZilla/main/dogzilla.json",
+	"image": "https://raw.githubusercontent.com/FlouzeToken/DogZilla/main/dogzilla.png",
+   	"description": "Coming from the meme's nuclear hell of war rises the DogZilla. It's huge, it's ugly, it's Dogzilla.",
+	"seller_fee_basis_points": 0
+}
+
